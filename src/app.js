@@ -59,7 +59,7 @@ let [small, medium, high, [veryHigh, maxiumum]] = populations;
 //console.log(maxiumum);
 
 function someFunction([small1], number) {
-  console.log(small1);
+ // console.log(small1);
 }
 
 //someFunction(populations);
@@ -70,8 +70,9 @@ let category = { id: 1, name: "İçecek" };
 //console.log(category);
 
 let { id, name } = category;
-console.log(id);
-console.log(name);
+//console.log(id);
+//console.log(name);
 
+console.log("ARROW FUNCTIONS----------------------------------------------");
 
 
