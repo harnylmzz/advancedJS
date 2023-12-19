@@ -1,0 +1,22 @@
+{
+  "name": "advancedjs",
+  "version": "1.0.0",
+  "description": "advanced javascript",
+  "main": "app.js",
+  "keywords": [
+    "javascript",
+    "advanced",
+    "js"
+  ],
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "author": "harunyilmaz",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
